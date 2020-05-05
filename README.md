@@ -20,6 +20,6 @@ The features that make our website unique is its easy to read formatting
 
 # Teammates and tasks they were responsible for
 
-Ramior - Non discrimination and Equality
+Ramiro - Non discrimination and Equality
 Daler - Privacy and Freedom of Expression
 Jiaxi - Political Participation and The Disablity Approach
