@@ -4,7 +4,6 @@ import MySection from "./components/styles/section";
 import "./components/styles/Jiaxi.css";
 import DalerComponent1 from "./components/DalerComponent1";
 import DalerComponent2 from "./components/DalerComponent2";
-import "./App.css";
 import Politics from "./components/Politics";
 
 function App() {
